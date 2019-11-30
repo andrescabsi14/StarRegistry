@@ -1,0 +1,28 @@
+{
+  "name": "starregistry",
+  "version": "1.0.0",
+  "description": "A DApp to register stars. Part of the Udacity's Blockchain Developer Nanodegree",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.4.0",
+    "truffle": "^5.1.2",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrescabsi14/StarRegistry.git"
+  },
+  "author": "AndresCabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrescabsi14/StarRegistry/issues"
+  },
+  "homepage": "https://github.com/andrescabsi14/StarRegistry#readme"
+}
